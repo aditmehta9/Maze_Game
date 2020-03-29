@@ -1,0 +1,2 @@
+rootProject.name='mazegame'
+include ':app'
